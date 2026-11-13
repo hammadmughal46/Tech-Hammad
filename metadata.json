@@ -1,0 +1,6 @@
+{
+  "name": "PAK ADS",
+  "description": "Premium Ads Watch & Earn platform with 24h reset, 100 PKR welcome bonus, Easypaisa deposits, and JazzCash withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
